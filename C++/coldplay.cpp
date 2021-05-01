@@ -10,9 +10,6 @@ int main() {
 	    cin>>m>>s;
 	    int c;
 	    c=m/s;
-	    //if(m<s)
-	    //cout<<0;
-	    //else
 	    cout<<c<<"\n";
 	}
 	return 0;
