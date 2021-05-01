@@ -14,3 +14,7 @@
 >>
 4) *  *QUES*: [COLDPLAY](https://www.codechef.com/LTIME95C/problems/SLOOP)
    *  *ANS*:  [COLDPLAY](/C++/coldplay.cpp)
+>>
+>>
+5) *  *QUES*: [ARRAY ROTATION](https://www.codechef.com/problems/ARRROT)
+   *  *ANS*:  [ARRAY ROTATION](/C++/array_rot.cpp)
