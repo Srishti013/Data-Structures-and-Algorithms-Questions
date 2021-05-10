@@ -8,3 +8,4 @@
   [ANS](/recursion/digital_root.cpp)
 * [QUES: Fibonacci](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/0/?track=DSASP-Recursion&batchId=154)<br>
   [ANS](/recursion/fibonacci.cpp)
+* [Find whether the given string is a palindrome or not(using recursion)](/recursion/palindrome.cpp)
