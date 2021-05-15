@@ -6,3 +6,7 @@
 >>
 2) QUES: XOR INEQUALITY<br>
    ANS:  [XOR INEQUALITY](/C++/Code/xor_inequality.cpp)
+>>
+3) QUES: TIC TAC TOE<br>
+   ANS:  [TIC TAC TOE](/C++/Code/tic_tac_toe.cpp)
+
