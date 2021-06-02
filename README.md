@@ -9,3 +9,4 @@ It will also have some competitive programming questions along with their soluti
 * [Bit Manipulation](/bit_m)
 * [Recursion](/recursion/readme.md)
 * [Sorting](/sorting/readme.md)
+* [Array](/Array/readme.md)
