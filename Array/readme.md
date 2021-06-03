@@ -2,3 +2,4 @@
 * [Max Arithmetic Subarray](/Array/max_ar_subarray.cpp)
 * [Two Sum](https://leetcode.com/problems/two-sum/) --> [Ans](/Array/two_sum.cpp)
 * [Record Breaking Days](/Array/rec_brk.cpp)
+* [Index of First Repeating Element](/Array/first_rep_ele.cpp)
