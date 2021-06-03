@@ -1,7 +1,12 @@
+### Random Problems
 * [Max Elements till i in array](/Array/max_ele.cpp)
 * [Max Arithmetic Subarray](/Array/max_ar_subarray.cpp)
-* [Two Sum](https://leetcode.com/problems/two-sum/) --> [Ans](/Array/two_sum.cpp)
 * [Record Breaking Days](/Array/rec_brk.cpp)
 * [Index of First Repeating Element](/Array/first_rep_ele.cpp)
 * [First Positive Number In An Unsorted Array](/Array/first_pos_no.cpp)
 * [Max Subarray Sum](/Array/max_subarray_sum.cpp)
+
+### Leetcode
+#### Easy
+* [Two Sum](https://leetcode.com/problems/two-sum/) --> [Ans](/Array/two_sum.cpp)
+* [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) --> [Ans](/Array/running_sum.cpp)
