@@ -10,3 +10,4 @@
 #### Easy
 * [Two Sum](https://leetcode.com/problems/two-sum/) --> [Ans](/Array/two_sum.cpp)
 * [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) --> [Ans](/Array/running_sum.cpp)
+* [Shuffle Array](https://leetcode.com/problems/shuffle-the-array/) -->[Ans](/Array/shuffle_array.cpp)
