@@ -13,3 +13,4 @@
 * [Shuffle Array](https://leetcode.com/problems/shuffle-the-array/) -->[Ans](/Array/shuffle_array.cpp)
 * [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) -->[Ans](/Array/rem_dup_sorted.cpp)
 * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) -->[Ans](/Array/merge_arr.cpp)
+* [Plus 1](https://leetcode.com/problems/plus-one/) -->[Ans](/Array/plus_one.cpp)
