@@ -1,3 +1,13 @@
+/* 
+      To find if two elements of the given array can be added to be equal to the given number
+      For Ex:
+             Input:
+	            8
+                    2 4 7 11 14 16 20 21
+                    31
+             Output:
+	            True
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
