@@ -4,7 +4,7 @@
 * [Record Breaking Days](/Array/rec_brk.cpp)
 * [Index of First Repeating Element](/Array/first_rep_ele.cpp)
 * [First Positive Number In An Unsorted Array](/Array/first_pos_no.cpp)
-* [Max Subarray Sum](/Array/max_subarray_sum.cpp)-
+
 
 ### Leetcode
 #### Easy
@@ -15,3 +15,4 @@
 * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) -->[Ans](/Array/merge_arr.cpp)
 * [Plus 1](https://leetcode.com/problems/plus-one/) -->[Ans](/Array/plus_one.cpp)
 * [Missing Number](https://leetcode.com/problems/missing-number/) -->[Ans](/Array/missing_num.cpp)
+* [Max Subarray Sum](https://leetcode.com/problems/maximum-subarray/) -->[Ans](/Array/max_subarray_sum.cpp)(Kandane's Algo)
