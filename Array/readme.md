@@ -8,6 +8,7 @@
 * [Printing two dimensional array in spiral format](/Array/sprial.cpp)
 * [Printing Transpose of a matrix](/Array/transpose.cpp)
 * [Matrix Multiplication](/Array/mat_mul.cpp)
+* [Searching element in a given matrix](/Array/seach_mat.cpp)
 
 ### Leetcode
 #### Easy
