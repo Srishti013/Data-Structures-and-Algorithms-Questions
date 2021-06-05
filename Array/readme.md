@@ -7,7 +7,7 @@
 * [Pair Sum Problem](/Array/pair_sum.cpp)
 * [Printing two dimensional array in spiral format](/Array/sprial.cpp)
 * [Printing Transpose of a matrix](/Array/transpose.cpp)
-
+* [Matrix Multiplication](/Array/mat_mul.cpp)
 
 ### Leetcode
 #### Easy
