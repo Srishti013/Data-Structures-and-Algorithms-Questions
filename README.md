@@ -4,9 +4,12 @@ In this repo you can find many questions along with their solution(in C++) based
 It will also have some competitive programming questions along with their solutions(in C++).
 
 >>
->>
-* [Competitive Programming](/Cp)
+
+* [Array](/Array/readme.md)
 * [Bit Manipulation](/bit_m)
+* [Competitive Programming](/Cp)
 * [Recursion](/recursion/readme.md)
 * [Sorting](/sorting/readme.md)
-* [Array](/Array/readme.md)
+* [Strings](/string/readme.md)
+
+
