@@ -6,6 +6,7 @@
 * [First Positive Number In An Unsorted Array](/Array/first_pos_no.cpp)
 * [Pair Sum Problem](/Array/pair_sum.cpp)
 * [Printing two dimensional array in spiral format](/Array/sprial.cpp)
+* [Printing Transpose of a matrix](/Array/transpose.cpp)
 
 
 ### Leetcode
