@@ -20,3 +20,4 @@
 * [Plus 1](https://leetcode.com/problems/plus-one/) -->[Ans](/Array/plus_one.cpp)
 * [Missing Number](https://leetcode.com/problems/missing-number/) -->[Ans](/Array/missing_num.cpp)
 * [Max Subarray Sum](https://leetcode.com/problems/maximum-subarray/) -->[Ans](/Array/max_subarray_sum.cpp)(Kandane's Algo)
+* [Best Time To Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) -->[Ans](/Array/stocks.cpp)
