@@ -5,6 +5,7 @@
 * [Clear bit](/bit_m/random/clear_bit.cpp)
 * [Update bit](/bit_m/random/update_bit.cpp)
 * [Checking if the number is of power 2](/bit_m/random/is_powerof2.cpp)
+* [Find number of ones in the binary representation of the given number](/bit_m/random/numof1.cpp)
 
 
 ## Geeks for geeks
