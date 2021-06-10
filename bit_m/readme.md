@@ -10,3 +10,4 @@
 
 ## Geeks for geeks
 * [First set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/?track=DSASP-BitMagic&batchId=154) -->[Ans](/bit_m/first_set_bit.cpp)
+* [Single Number](https://leetcode.com/problems/single-number/) -->[Ans](/bit_m/single_num.cpp)
