@@ -11,5 +11,6 @@ It will also have some competitive programming questions along with their soluti
 * [Recursion](/recursion/readme.md)
 * [Sorting](/sorting/readme.md)
 * [Strings](/string/readme.md)
+* [Maths](/maths/readme.md)
 
 
