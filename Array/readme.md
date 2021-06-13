@@ -22,4 +22,5 @@
 * [Max Subarray Sum](https://leetcode.com/problems/maximum-subarray/) -->[Ans](/Array/max_subarray_sum.cpp)(Kandane's Algo)
 * [Best Time To Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) -->[Ans](/Array/stocks.cpp)
 * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) -->[Ans](/Array/contain_dup.cpp)
-* [Majority Element](https://leetcode.com/problems/majority-element/) --> [Ans](/Array/majority_element.cpp)(Boyer-Moore Voting Algorithm)
+* [Majority Element](https://leetcode.com/problems/majority-element/) -->[Ans](/Array/majority_element.cpp)(Boyer-Moore Voting Algorithm)
+* [Move Zeroes](https://leetcode.com/problems/move-zeroes/) -->[Ans](/Array/move_zeroes.cpp)
