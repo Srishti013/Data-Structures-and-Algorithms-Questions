@@ -25,3 +25,4 @@
 * [Majority Element](https://leetcode.com/problems/majority-element/) -->[Ans](/Array/majority_element.cpp)(Boyer-Moore Voting Algorithm)
 * [Move Zeroes](https://leetcode.com/problems/move-zeroes/) -->[Ans](/Array/move_zeroes.cpp)
 * [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) --> [Ans](/Array/3_max.cpp)
+* [Richest Customer](https://leetcode.com/problems/richest-customer-wealth/) --> [Ans](/Array/richest.cpp)
