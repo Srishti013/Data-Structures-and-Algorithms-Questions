@@ -26,3 +26,4 @@
 * [Move Zeroes](https://leetcode.com/problems/move-zeroes/) -->[Ans](/Array/move_zeroes.cpp)
 * [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) --> [Ans](/Array/3_max.cpp)
 * [Richest Customer](https://leetcode.com/problems/richest-customer-wealth/) --> [Ans](/Array/richest.cpp)
+* [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/submissions/) --> [Ans](/Array/flower.cpp)
