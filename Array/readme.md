@@ -27,3 +27,6 @@
 * [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) --> [Ans](/Array/3_max.cpp)
 * [Richest Customer](https://leetcode.com/problems/richest-customer-wealth/) --> [Ans](/Array/richest.cpp)
 * [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/submissions/) --> [Ans](/Array/flower.cpp)
+
+### Geeks For Geeks
+* [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
