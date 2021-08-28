@@ -32,3 +32,8 @@
 
 ### Geeks For Geeks
 * [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
+
+### Codechef
+#### Easy
+* [Little Elephant and Candies](https://www.codechef.com/problems/LECANDY/) --> [Ans](/Array/little_elephant.cpp)
+* [The Lead Game](https://www.codechef.com/problems/TLG) --> [Ans](/Array/the_lead_game.cpp)
