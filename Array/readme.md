@@ -11,6 +11,7 @@
 * [Searching element in a given matrix](/Array/seach_mat.cpp)
 * [Sum 10](/Array/sum10.cpp)
 * [Three element sum](/Array/three_element_sum.cpp)
+* [Merge Sort](/Array/merge_sort.cpp)
 
 ### Leetcode
 #### Easy
