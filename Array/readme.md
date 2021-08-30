@@ -13,6 +13,7 @@
 * [Three element sum](/Array/three_element_sum.cpp)
 * [Merge Sort](/Array/merge_sort.cpp)
 * [Stock](/Array/stock.cpp)
+* [Binary Search in a rotated array](/Array/rotated_search.cpp)
 
 ### Leetcode
 #### Easy
