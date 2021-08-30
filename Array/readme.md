@@ -12,6 +12,7 @@
 * [Sum 10](/Array/sum10.cpp)
 * [Three element sum](/Array/three_element_sum.cpp)
 * [Merge Sort](/Array/merge_sort.cpp)
+* [Stock](/Array/stock.cpp)
 
 ### Leetcode
 #### Easy
