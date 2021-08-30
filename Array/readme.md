@@ -39,3 +39,5 @@
 #### Easy
 * [Little Elephant and Candies](https://www.codechef.com/problems/LECANDY/) --> [Ans](/Array/little_elephant.cpp)
 * [The Lead Game](https://www.codechef.com/problems/TLG) --> [Ans](/Array/the_lead_game.cpp)
+* [ICPC Balloons](https://www.codechef.com/problems/BALLOON) --> [Ans](/Array/icpc.cpp)
+* [Judging Delay](https://www.codechef.com/problems/JDELAY) --> [Ans](/Array/judging.cpp)
