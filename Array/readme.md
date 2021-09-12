@@ -38,6 +38,7 @@
 * [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays) --> [Ans](/Array/wave_array.cpp)
 * [Count The Zeroes](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays#) --> [Ans](/Array/count_zeroes.cpp)
 * [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays#) --> [Ans](/Array/transition_pt.cpp)
+* [K Largest Element](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays#) --> [Ans](/Array/k_largest.cpp)
 
 ### Codechef
 #### Easy
