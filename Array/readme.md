@@ -35,6 +35,7 @@
 
 ### Geeks For Geeks
 * [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
+* [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays) --> [Ans](/Array/wave_array.cpp)
 
 ### Codechef
 #### Easy
