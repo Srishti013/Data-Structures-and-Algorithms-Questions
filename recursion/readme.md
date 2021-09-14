@@ -6,3 +6,6 @@
 * [Count digits](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/0/?track=DSASP-Recursion&batchId=154) -->[Ans](/recursion/count_digits.cpp) 
 * [Digital Root](https://practice.geeksforgeeks.org/problems/digital-root/0/?track=DSASP-Recursion&batchId=154) -->[Ans](/recursion/digital_root.cpp)
 * [Fibonacci](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/0/?track=DSASP-Recursion&batchId=154) -->[Ans](/recursion/fibonacci.cpp)
+
+### Random
+* [Reverse String](/recursion/reverse_string.cpp)
