@@ -48,3 +48,8 @@
 * [The Lead Game](https://www.codechef.com/problems/TLG) --> [Ans](/Array/the_lead_game.cpp)
 * [ICPC Balloons](https://www.codechef.com/problems/BALLOON) --> [Ans](/Array/icpc.cpp)
 * [Judging Delay](https://www.codechef.com/problems/JDELAY) --> [Ans](/Array/judging.cpp)
+
+
+### Amazon
+#### Basic
+* [Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/replace0.cpp)
