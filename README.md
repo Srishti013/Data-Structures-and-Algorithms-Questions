@@ -6,6 +6,7 @@ It will also have some competitive programming questions along with their soluti
 >>
 
 * [Array](/Array/readme.md)
+* [Searching](/Searching/Searching.md)
 * [Bit Manipulation](/bit_m)
 * [Competitive Programming](/Cp)
 * [Recursion](/recursion/readme.md)
