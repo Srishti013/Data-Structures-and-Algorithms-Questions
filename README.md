@@ -13,5 +13,6 @@ It will also have some competitive programming questions along with their soluti
 * [Sorting](/sorting/readme.md)
 * [Strings](/string/readme.md)
 * [Maths](/maths/readme.md)
+* [Matrix](/matrix/readme.md)
 
 
