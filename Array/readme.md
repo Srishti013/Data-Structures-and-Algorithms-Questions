@@ -6,6 +6,8 @@
 
 #### Easy
 * [Max and Second Max ](https://practice.geeksforgeeks.org/problems/max-and-second-max/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/max_smax.cpp)
+* * [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
+* [Max sum path in two arrays](https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/max_sum_path.cpp)
 
 ### Leetcode
 #### Easy
@@ -30,7 +32,7 @@
 
 ### Geeks For Geeks
 #### Easy
-* [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
+
 * [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays) --> [Ans](/Array/wave_array.cpp)
 * [Count The Zeroes](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays#) --> [Ans](/Array/count_zeroes.cpp)
 * [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays#) --> [Ans](/Array/transition_pt.cpp)
