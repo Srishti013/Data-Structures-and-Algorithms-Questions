@@ -3,7 +3,7 @@
 * [Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/replace0.cpp)
 * [Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/3_largest.cpp)
 * [Minimum distance between two numbers](https://practice.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/min_dist.cpp)
-*  --> [Ans](/Array/bin_sort.cpp)
+* [Binary Array Sorting](https://practice.geeksforgeeks.org/problems/binary-array-sorting5355/0/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/bin_sort.cpp)
 
 #### Easy
 * [Max and Second Max ](https://practice.geeksforgeeks.org/problems/max-and-second-max/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/max_smax.cpp)
