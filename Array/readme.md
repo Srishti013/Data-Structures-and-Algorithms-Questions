@@ -53,3 +53,4 @@
 ### Amazon
 #### Basic
 * [Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/replace0.cpp)
+* [Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/3_largest.cpp)
