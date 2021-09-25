@@ -1,19 +1,10 @@
-### Random Problems
-* [Max Elements till i in array](/Array/max_ele.cpp)
-* [Max Arithmetic Subarray](/Array/max_ar_subarray.cpp)
-* [Record Breaking Days](/Array/rec_brk.cpp)
-* [Index of First Repeating Element](/Array/first_rep_ele.cpp)
-* [First Positive Number In An Unsorted Array](/Array/first_pos_no.cpp)
-* [Pair Sum Problem](/Array/pair_sum.cpp)
-* [Printing two dimensional array in spiral format](/Array/sprial.cpp)
-* [Printing Transpose of a matrix](/Array/transpose.cpp)
-* [Matrix Multiplication](/Array/mat_mul.cpp)
-* [Searching element in a given matrix](/Array/seach_mat.cpp)
-* [Sum 10](/Array/sum10.cpp)
-* [Three element sum](/Array/three_element_sum.cpp)
-* [Merge Sort](/Array/merge_sort.cpp)
-* [Stock](/Array/stock.cpp)
-* [Binary Search in a rotated array](/Array/rotated_search.cpp)
+### Amazon
+#### Basic
+* [Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/replace0.cpp)
+* [Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/3_largest.cpp)
+
+#### Easy
+* [Max and Second Max ](https://practice.geeksforgeeks.org/problems/max-and-second-max/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/max_smax.cpp)
 
 ### Leetcode
 #### Easy
@@ -33,6 +24,9 @@
 * [Richest Customer](https://leetcode.com/problems/richest-customer-wealth/) --> [Ans](/Array/richest.cpp)
 * [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/submissions/) --> [Ans](/Array/flower.cpp)
 
+
+
+
 ### Geeks For Geeks
 #### Easy
 * [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
@@ -49,8 +43,21 @@
 * [ICPC Balloons](https://www.codechef.com/problems/BALLOON) --> [Ans](/Array/icpc.cpp)
 * [Judging Delay](https://www.codechef.com/problems/JDELAY) --> [Ans](/Array/judging.cpp)
 
+### Random Problems
+* [Max Elements till i in array](/Array/max_ele.cpp)
+* [Max Arithmetic Subarray](/Array/max_ar_subarray.cpp)
+* [Record Breaking Days](/Array/rec_brk.cpp)
+* [Index of First Repeating Element](/Array/first_rep_ele.cpp)
+* [First Positive Number In An Unsorted Array](/Array/first_pos_no.cpp)
+* [Pair Sum Problem](/Array/pair_sum.cpp)
+* [Printing two dimensional array in spiral format](/Array/sprial.cpp)
+* [Printing Transpose of a matrix](/Array/transpose.cpp)
+* [Matrix Multiplication](/Array/mat_mul.cpp)
+* [Searching element in a given matrix](/Array/seach_mat.cpp)
+* [Sum 10](/Array/sum10.cpp)
+* [Three element sum](/Array/three_element_sum.cpp)
+* [Merge Sort](/Array/merge_sort.cpp)
+* [Stock](/Array/stock.cpp)
+* [Binary Search in a rotated array](/Array/rotated_search.cpp)
 
-### Amazon
-#### Basic
-* [Replace all 0's with 5](https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/replace0.cpp)
-* [Third largest element](https://practice.geeksforgeeks.org/problems/third-largest-element/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/3_largest.cpp)
+
