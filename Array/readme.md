@@ -9,6 +9,9 @@
 * * [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
 * [Max sum path in two arrays](https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/max_sum_path.cpp)
 
+#### Medium
+* [Max sum in the configuration](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/0/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/max_config.cpp)
+
 ### Leetcode
 #### Easy
 * [Two Sum](https://leetcode.com/problems/two-sum/) --> [Ans](/Array/two_sum.cpp)
