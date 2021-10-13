@@ -7,6 +7,7 @@
 * [Linked List Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/insertion.cpp)
 * [Insert in Middle of Linked List](https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238#) --> [Ans](/linked_list/insert_in_mid.cpp)
 * [Linked List Insertion At Position](https://practice.geeksforgeeks.org/problems/linked-list-insertion-at-position/0/?track=DSA-Foundation-Linked-List&batchId=238#) --> [Ans](/linked_list/insert_at_pos.cpp)
+* [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/identical.cpp)
 
 #### Easy
 * [Insert In Sorted Linked List](https://practice.geeksforgeeks.org/problems/insert-in-sorted-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) -->[Ans](/linked_list/insert_in_sorted.cpp)
