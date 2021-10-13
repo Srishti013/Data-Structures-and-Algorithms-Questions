@@ -14,3 +14,4 @@
 * [Delete Head of Linked List](https://practice.geeksforgeeks.org/problems/delete-head-of-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238#) --> [Ans](/linked_list/del_head.cpp)
 * [Linked List Delete at Position](https://practice.geeksforgeeks.org/problems/linked-list-delete-at-position/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/delete_at_pos.cpp)
 * [Is Linked List Sorted](https://practice.geeksforgeeks.org/problems/is-linked-list-sorted/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/is_sorted.cpp)
+* [ Join Two Linked Lists](https://practice.geeksforgeeks.org/problems/join-two-linked-lists/0/?track=DSA-Foundation-Linked-List&batchId=238#) --> [Ans](/linked_list/join.cpp)
