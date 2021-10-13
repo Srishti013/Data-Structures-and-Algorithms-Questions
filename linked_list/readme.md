@@ -10,3 +10,4 @@
 
 #### Easy
 * [Insert In Sorted Linked List](https://practice.geeksforgeeks.org/problems/insert-in-sorted-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) -->[Ans](/linked_list/insert_in_sorted.cpp)
+* [Delete Tail of Linked List](https://practice.geeksforgeeks.org/problems/delete-tail-of-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/delete_tail.cpp)
