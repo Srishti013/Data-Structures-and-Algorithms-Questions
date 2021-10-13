@@ -5,3 +5,4 @@
 * [Maximum And Minimum In Linked List](https://practice.geeksforgeeks.org/problems/maximum-and-minimum-in-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/max_min.cpp)
 * [Search In Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/search.cpp)
 * [Linked List Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/insertion.cpp)
+* [Insert in Middle of Linked List](https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238#) --> [Ans](/linked_list/insert_in_mid.cpp)
