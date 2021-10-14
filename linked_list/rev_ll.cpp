@@ -1,19 +1,17 @@
 class Solution
 {
     public:
-    
     struct Node* reverseList(struct Node *head)
     {
-        struct Node* new_head=new Node(head->data);
-        struct Node* curr=head;
-        while(curr->next!=NULL)
+        Node *prev=NULL, *curr=head;
+        while(curr!=NULL)
         {
-            curr=curr->next;
-            struct Node* rev=new Node(curr->data);
-            rev->next=new_head;
-            new_head=rev;
+            Node *next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
         }
-        return new_head;
+        return prev;
     }
     
 };
