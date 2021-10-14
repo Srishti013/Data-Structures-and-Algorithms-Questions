@@ -29,3 +29,6 @@
 * [Insert In Sorted Linked List](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/0/?track=amazon-linkedlists&batchId=192#) -->[Ans](/linked_list/insert_in_sorted.cpp)
 * [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238#) --> [Ans](/linked_list/rev_ll.cpp)
 
+#### Medium
+* [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/rotate.cpp)
+
