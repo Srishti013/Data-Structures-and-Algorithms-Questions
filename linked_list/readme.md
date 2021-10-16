@@ -31,6 +31,7 @@
 * [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/sort_1_2.cpp)
 * [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/pairwise_swap.cpp)
 * [Add 1 to a number represented as linked list](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/add_1.cpp)
+* [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/n_node.cpp)
 
 #### Medium
 * [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/rotate.cpp)
