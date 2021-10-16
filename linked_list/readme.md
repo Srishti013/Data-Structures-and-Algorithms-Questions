@@ -34,4 +34,5 @@
 
 #### Medium
 * [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/rotate.cpp)
+* [Rearrange a linked list](https://practice.geeksforgeeks.org/problems/rearrange-a-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/rearrange.cpp)
 
