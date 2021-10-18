@@ -5,3 +5,4 @@
 
 ### Easy
 * [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/0/?track=amazon-stacks&batchId=192) --> [Ans](/stack/two_stack_arr.cpp)
+* [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1/?track=amazon-stacks&batchId=192#) --> [Ans](/stack/special_stack.cpp)
