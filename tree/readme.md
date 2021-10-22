@@ -2,6 +2,9 @@
 * [Preorder Traversal](https://practice.geeksforgeeks.org/problems/preorder-traversal/1/?track=DSA-Foundation-Tree&batchId=238#) --> [Ans](/tree/preorder.cpp)
 * [Postorder Traversal](https://practice.geeksforgeeks.org/problems/postorder-traversal/0/?track=DSA-Foundation-Tree&batchId=238) --> [Ans](/tree/postorder.cpp)
 
+## Easy 
+* [Level Order Traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/0/?track=DSA-Foundation-Tree&batchId=238#) --> [Ans](/tree/levelorder.cpp)
+
 ## AMAZON
 #### Basic
 * [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1/?track=amazon-trees&batchId=192#) --> [Ans](/tree/inorder.cpp) 
