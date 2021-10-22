@@ -17,5 +17,6 @@ It will also have some competitive programming questions along with their soluti
 * [Linked List](/linked_list/readme.md)
 * [Stack](/stack/readme.md)
 * [Tree](/tree/readme.md)
+* [Binary Search Tree](/bst/readme.md)
 
 
