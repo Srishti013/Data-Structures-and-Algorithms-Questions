@@ -13,6 +13,7 @@
 * [Full binary tree](https://practice.geeksforgeeks.org/problems/full-binary-tree/0/?track=amazon-trees&batchId=192#) --> [Ans](/tree/full_binary.cpp)
 * [Symmetric Tree](https://practice.geeksforgeeks.org/problems/symmetric-tree/1/?track=amazon-trees&batchId=192) --> [Ans](/tree/symmetric.cpp)
 * [ Print all nodes that don't have sibling](https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/0/?track=amazon-trees&batchId=192#) --> [Ans](/tree/sibcheck.cpp)
+* [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/0/?track=amazon-trees&batchId=192#) --> [Ans](/tree/isomorphic.cpp)
 
 #### Medium
 * [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/0/?track=amazon-trees&batchId=192#) --> [Ans](/tree/height.cpp)
