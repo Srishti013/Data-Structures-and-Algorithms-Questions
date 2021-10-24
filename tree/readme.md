@@ -17,6 +17,7 @@
 * [Maximum Node Level](https://practice.geeksforgeeks.org/problems/maximum-node-level/0/?track=amazon-trees&batchId=192) --> [Ans](/tree/max_node_level.cpp)
 * [Children Sum Parent ](https://practice.geeksforgeeks.org/problems/children-sum-parent/0/?track=amazon-trees&batchId=192#) --> [Ans](/tree/childsum.cpp)
 * [Sum of Left Leaf Nodes ](https://practice.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/0/?track=amazon-trees&batchId=192#) --> [Ans](/tree/sum_left_leaves.cpp)
+* [K distance from root](https://practice.geeksforgeeks.org/problems/k-distance-from-root/0/?track=amazon-trees&batchId=192#) --> [Ans](/tree/k_dist.cpp)
 
 #### Medium
 * [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/0/?track=amazon-trees&batchId=192#) --> [Ans](/tree/height.cpp)
