@@ -17,7 +17,6 @@
 * [ Join Two Linked Lists](https://practice.geeksforgeeks.org/problems/join-two-linked-lists/0/?track=DSA-Foundation-Linked-List&batchId=238#) --> [Ans](/linked_list/join.cpp)
 * [Remove duplicate element from sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/rem_dup.cpp)
 * [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/n_node.cpp)
-* [Add two numbers represented by linked lists ](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/add.cpp)
 
 
 
@@ -34,6 +33,8 @@
 * [Add 1 to a number represented as linked list](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/add_1.cpp)
 * [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/n_node.cpp)
 * [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/loop_detection.cpp) [Floyd's Algo]
+* [Add two numbers represented by linked lists ](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/add.cpp)
+
 
 #### Medium
 * [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/rotate.cpp)
