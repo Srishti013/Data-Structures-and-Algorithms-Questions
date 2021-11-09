@@ -50,6 +50,11 @@
 * [ICPC Balloons](https://www.codechef.com/problems/BALLOON) --> [Ans](/Array/icpc.cpp)
 * [Judging Delay](https://www.codechef.com/problems/JDELAY) --> [Ans](/Array/judging.cpp)
 
+
+### Adobe
+#### Easy
+* [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/0/?company[]=Adobe&company[]=Adobe&problemType=functional&page=1&sortBy=submissions&query=company[]AdobeproblemTypefunctionalpage1sortBysubmissionscompany[]Adobe#) --> [Ans](/Array/eq.cpp)
+
 ### Random Problems
 * [Max Elements till i in array](/Array/max_ele.cpp)
 * [Max Arithmetic Subarray](/Array/max_ar_subarray.cpp)
