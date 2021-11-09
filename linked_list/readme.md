@@ -18,7 +18,7 @@
 * [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/0/?track=DSA-Foundation-Linked-List&batchId=238) --> [Ans](/linked_list/n_node.cpp)
 
 
-
+<hr>
 
 
 ### AMAZON
@@ -38,6 +38,8 @@
 #### Medium
 * [Rotate a Linked List ](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/rotate.cpp)
 * [Rearrange a linked list](https://practice.geeksforgeeks.org/problems/rearrange-a-linked-list/0/?track=amazon-linkedlists&batchId=192#) --> [Ans](/linked_list/rearrange.cpp)
+
+<hr>
 
 ### Adobe
 #### Easy
