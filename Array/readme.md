@@ -57,6 +57,7 @@
 * [Union of Two Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionaldifficulty[]0page1sortBysubmissionscategory[]Arrays#) --> [Ans](/Array/union.cpp)
 * [Form a number divisible by 3 using array digits](https://practice.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionaldifficulty[]0page1category[]Arrays#) --> [Ans](/Array/sum3.cpp)
 * [Segregate 0s and 1s](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionaldifficulty[]0page1category[]Arrays#) --> [Ans](/Array/zero_one.cpp)
+* [Bitonic Point](https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionaldifficulty[]0page1category[]Arrays#) --> [Ans](/Array/bitonic.cpp)
 
 <hr>
 
