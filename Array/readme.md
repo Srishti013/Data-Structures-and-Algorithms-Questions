@@ -7,13 +7,17 @@
 
 #### Easy
 * [Max and Second Max ](https://practice.geeksforgeeks.org/problems/max-and-second-max/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/max_smax.cpp)
-* * [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
+* [Rotate Array](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DSA-Foundation-Arrays&batchId=238) --> [Ans](/Array/rotate.cpp)
 * [Max sum path in two arrays](https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/0/?track=amazon-arrays&batchId=192) --> [Ans](/Array/max_sum_path.cpp)
 
 #### Medium
 * [Max sum in the configuration](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/0/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/max_config.cpp)
 
-### Leetcode
+### Adobe
+#### Easy
+* [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/0/?company[]=Adobe&company[]=Adobe&problemType=functional&page=1&sortBy=submissions&query=company[]AdobeproblemTypefunctionalpage1sortBysubmissionscompany[]Adobe#) --> [Ans](/Array/eq.cpp)
+
+### Leetcode, GFG and Codechef
 #### Easy
 * [Two Sum](https://leetcode.com/problems/two-sum/) --> [Ans](/Array/two_sum.cpp)
 * [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) --> [Ans](/Array/running_sum.cpp)
@@ -30,30 +34,17 @@
 * [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) --> [Ans](/Array/3_max.cpp)
 * [Richest Customer](https://leetcode.com/problems/richest-customer-wealth/) --> [Ans](/Array/richest.cpp)
 * [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/submissions/) --> [Ans](/Array/flower.cpp)
-
-
-
-
-### Geeks For Geeks
-#### Easy
-
 * [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays) --> [Ans](/Array/wave_array.cpp)
 * [Count The Zeroes](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays#) --> [Ans](/Array/count_zeroes.cpp)
 * [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays#) --> [Ans](/Array/transition_pt.cpp)
 * [K Largest Element](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays#) --> [Ans](/Array/k_largest.cpp)
 * [Find Duplicates](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?category[]=Arrays&category[]=Mathematical&category[]=Sorting&category[]=Bit%20Magic&category[]=Searching&category[]=Recursion&category[]=Arrays&category[]=Mathematical&category[]=Sorting&category[]=Bit%20Magic&category[]=Searching&category[]=Recursion&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&sortBy=submissions&query=category[]Arrayscategory[]Mathematicalcategory[]Sortingcategory[]Bit%20Magiccategory[]Searchingcategory[]Recursioncompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1sortBysubmissionscompany[]Amazoncategory[]Arrayscategory[]Mathematicalcategory[]Sortingcategory[]Bit%20Magiccategory[]Searchingcategory[]Recursion#) --> [Ans](/Array/find_dup.cpp)
-
-### Codechef
-#### Easy
 * [Little Elephant and Candies](https://www.codechef.com/problems/LECANDY/) --> [Ans](/Array/little_elephant.cpp)
 * [The Lead Game](https://www.codechef.com/problems/TLG) --> [Ans](/Array/the_lead_game.cpp)
 * [ICPC Balloons](https://www.codechef.com/problems/BALLOON) --> [Ans](/Array/icpc.cpp)
 * [Judging Delay](https://www.codechef.com/problems/JDELAY) --> [Ans](/Array/judging.cpp)
 
 
-### Adobe
-#### Easy
-* [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/0/?company[]=Adobe&company[]=Adobe&problemType=functional&page=1&sortBy=submissions&query=company[]AdobeproblemTypefunctionalpage1sortBysubmissionscompany[]Adobe#) --> [Ans](/Array/eq.cpp)
 
 ### Random Problems
 * [Max Elements till i in array](/Array/max_ele.cpp)
