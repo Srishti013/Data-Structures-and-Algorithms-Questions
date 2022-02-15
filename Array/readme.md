@@ -13,11 +13,17 @@
 #### Medium
 * [Max sum in the configuration](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/0/?track=amazon-arrays&batchId=192#) --> [Ans](/Array/max_config.cpp)
 
+<hr>
+
 ### Adobe
 #### Easy
 * [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/0/?company[]=Adobe&company[]=Adobe&problemType=functional&page=1&sortBy=submissions&query=company[]AdobeproblemTypefunctionalpage1sortBysubmissionscompany[]Adobe#) --> [Ans](/Array/eq.cpp)
 
+<hr>
+
 ### Leetcode, GFG and Codechef
+#### Basic
+* [Binary Search](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1/?category[]=Arrays&category[]=Arrays&problemType=functional&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionalpage1sortBysubmissionscategory[]Arrays#) --> [Ans](/Array/binary_search.cpp)
 #### Easy
 * [Two Sum](https://leetcode.com/problems/two-sum/) --> [Ans](/Array/two_sum.cpp)
 * [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) --> [Ans](/Array/running_sum.cpp)
@@ -44,7 +50,7 @@
 * [ICPC Balloons](https://www.codechef.com/problems/BALLOON) --> [Ans](/Array/icpc.cpp)
 * [Judging Delay](https://www.codechef.com/problems/JDELAY) --> [Ans](/Array/judging.cpp)
 
-
+<hr>
 
 ### Random Problems
 * [Max Elements till i in array](/Array/max_ele.cpp)
