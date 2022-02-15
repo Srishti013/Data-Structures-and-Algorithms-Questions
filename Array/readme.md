@@ -51,6 +51,7 @@
 * [The Lead Game](https://www.codechef.com/problems/TLG) --> [Ans](/Array/the_lead_game.cpp)
 * [ICPC Balloons](https://www.codechef.com/problems/BALLOON) --> [Ans](/Array/icpc.cpp)
 * [Judging Delay](https://www.codechef.com/problems/JDELAY) --> [Ans](/Array/judging.cpp)
+* [Remove duplicate elements from sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1/?category[]=Arrays&category[]=Arrays&problemType=functional&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]-2difficulty[]-1difficulty[]0page1sortBysubmissionscategory[]Arrays#) --> [Ans](/Array/remove_dup.cpp)
 
 <hr>
 
