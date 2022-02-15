@@ -56,6 +56,7 @@
 * [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/?category[]=Arrays&category[]=Arrays&problemType=functional&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionaldifficulty[]-2difficulty[]-1difficulty[]0page1sortBysubmissionscategory[]Arrays#) --> [Ans](/Array/subarraysum.cpp)
 * [Union of Two Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionaldifficulty[]0page1sortBysubmissionscategory[]Arrays#) --> [Ans](/Array/union.cpp)
 * [Form a number divisible by 3 using array digits](https://practice.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionaldifficulty[]0page1category[]Arrays#) --> [Ans](/Array/sum3.cpp)
+* [Segregate 0s and 1s](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&difficulty[]=0&page=1&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionaldifficulty[]0page1category[]Arrays#) --> [Ans](/Array/zero_one.cpp)
 
 <hr>
 
