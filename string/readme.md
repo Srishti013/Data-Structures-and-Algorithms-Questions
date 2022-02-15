@@ -12,3 +12,7 @@
 ### Adobe
 #### Basic
 * [Good or Bad string](https://practice.geeksforgeeks.org/problems/good-or-bad-string1417/1/?company[]=Adobe&company[]=Adobe&problemType=functional&difficulty[]=-1&page=1&sortBy=submissions&query=company[]AdobeproblemTypefunctionaldifficulty[]-1page1sortBysubmissionscompany[]Adobe#) --> [Ans](/string/good_bad.cpp)
+
+### Amazon
+#### Basic
+* [Anagram of String](https://practice.geeksforgeeks.org/problems/anagram-of-string/1#) --> [Ans](/string/anagram_of_str.cpp)
