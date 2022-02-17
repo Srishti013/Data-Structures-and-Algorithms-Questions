@@ -76,6 +76,10 @@
 * [Union of Two Sorted Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1/?category[]=Arrays&category[]=Arrays&problemStatus=unsolved&problemType=functional&difficulty[]=0&page=1&sortBy=submissions&query=category[]ArraysproblemStatusunsolvedproblemTypefunctionaldifficulty[]0page1sortBysubmissionscategory[]Arrays#) --> [Ans](/Array/union.cpp)
 
 * [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1/?category[]=Arrays&category[]=Arrays&company[]=Amazon&company[]=Amazon&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&page=1&query=category[]Arrayscompany[]Amazondifficulty[]-2difficulty[]-1difficulty[]0page1company[]Amazoncategory[]Arrays) --> [Ans](/Array/wave_array.cpp)
+
+
+#### Medium
+* [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/?problemStatus=unsolved&problemType=functional&page=1&sortBy=submissions&category[]=Arrays&query=problemStatusunsolvedproblemTypefunctionalpage1sortBysubmissionscategory[]Arrays#) --> Ans(/Array/small_miss.cpp)
 <hr>
 
 ### Random Problems
