@@ -11,6 +11,7 @@
 ## Geeks for geeks
 #### Basic
 * [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1#) --> [Ans](/bit_m/bit_diff.cpp)
+* [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1#) --> [Ans](/bit_m/pow_2.cpp)
 #### Easy
 * [First set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/?track=DSASP-BitMagic&batchId=154) -->[Ans](/bit_m/first_set_bit.cpp)
 * [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/0/?track=DSASP-BitMagic&batchId=154#) --> [Ans](/bit_m/rightmost_diff.cpp)
