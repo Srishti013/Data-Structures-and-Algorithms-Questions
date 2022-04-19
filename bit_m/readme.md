@@ -20,6 +20,7 @@
 * [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/0/?track=DSASP-BitMagic&batchId=154#) --> [Ans](/bit_m/k_bit.cpp)
 * [Number of 1 Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1#) --> [Ans](/bit_m/num_1.cpp)
 * [Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1#) --> [Ans](/bit_m/not_repeating.cpp)
+* [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/0/?track=DSASP-BitMagic&batchId=154#) --> [Ans](/bit_m/longest1s.cpp)
 ## Leetcode 
 #### Easy
 * [Single Number](https://leetcode.com/problems/single-number/) -->[Ans](/bit_m/leetcode/easy/single_num.cpp)
